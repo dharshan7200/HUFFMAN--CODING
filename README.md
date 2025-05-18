@@ -70,11 +70,7 @@ for char, code in huffman_codes.items():
     print(f"    {char}    |    {code}")
 ```
 ## Output:
-#character="association"
 ![Screenshot 2025-05-18 092827](https://github.com/user-attachments/assets/9f056b52-407f-428b-a493-f6af2cbedea1)
-#character="committee"
-![Screenshot 2025-05-18 093012](https://github.com/user-attachments/assets/4955a812-b498-49d3-ae53-8b8332bfa731)
-
 
 
 
