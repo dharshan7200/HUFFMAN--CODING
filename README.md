@@ -7,24 +7,22 @@ To implement Huffman coding to compress the data using Python.
 
 ## Algorithm:
 ### Step1:
-<br>
-
-
+Get the input string
 ### Step2:
-<br>
-
+Create tree nodes
 ### Step3:
-<br>
-
+Main function to implement huffman coding
 ### Step4:
-<br>
-
+calculate frequency of occurence
 ### Step5:
-<br>
+print the characters and its huffmancode
 
  
 ## Program:
-
+```
+Developed By: DHARSHAN D
+Register Number:212223230045
+```
 ``` Python
 # expt-11-huffman coding
 
@@ -72,7 +70,10 @@ for char, code in huffman_codes.items():
     print(f"    {char}    |    {code}")
 ```
 ## Output:
+#character="association"
 ![Screenshot 2025-05-18 092827](https://github.com/user-attachments/assets/9f056b52-407f-428b-a493-f6af2cbedea1)
+#character="committee"
+![Screenshot 2025-05-18 093012](https://github.com/user-attachments/assets/4955a812-b498-49d3-ae53-8b8332bfa731)
 
 
 
